@@ -50,19 +50,18 @@ The model successfully identifies the upward trend in sales data and predicts fu
 
 ## Output
 
-### Dataset Preview
 
-<img width="409" height="510" alt="image" src="https://github.com/user-attachments/assets/86584a00-96f8-4fd8-9029-05593ab98c4b" />
+### Dataset Preview
+![Screenshot_13-4-2026_121451_github com](https://github.com/user-attachments/assets/e79fd6df-8762-44dd-9d9e-6fc9f099deba)
 
 
 ### Prediction Output
 
-<img width="414" height="426" alt="image" src="https://github.com/user-attachments/assets/3616ea31-52da-45d0-aef4-460876f5c736" />
-
+![Screenshot_13-4-2026_12159_github com](https://github.com/user-attachments/assets/9e78e71f-6282-4168-8f52-3184d26135ab)
 
 ### Sales Forecast Graph
 
-<img width="937" height="617" alt="image" src="https://github.com/user-attachments/assets/6d318a5a-00aa-408d-931d-347ed1abfeeb" /> 
+![Screenshot_13-4-2026_12161_github com](https://github.com/user-attachments/assets/a56cb6c1-0275-4dd1-abc6-3f708aff03da)
 
 
 ## Business Impact
